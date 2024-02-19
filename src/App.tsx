@@ -1,13 +1,12 @@
-import { Button } from "antd";
-import ListProgramm from "./components/list-programm";
+import { Button } from 'antd'
+import ListProgram from './components/list-program'
 
 function App() {
   return (
-    <div className="App">
-      <ListProgramm />
-      <Button type="primary">Начать установку</Button>
+    <div className='App'>
+      <ListProgram />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

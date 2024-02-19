@@ -1,4 +1,4 @@
-.itemProgramm-container{
+.itemProgram-container{
     background-color: #37474f;
     display: flex;
     /* justify-content: space-between; */
@@ -9,17 +9,17 @@
     margin-bottom: 10px;
 }
 
-.itemProgramm-textWrap{
+.itemProgram-textWrap{
     /* display: flex; */
     margin-left: 15px;
 }
 
-.itemProgramm-name{
+.itemProgram-name{
     color: #ffffff;
     display: block;
     font-size: 20px;
 }
 
-.itemProgramm-description{
+.itemProgram-description{
     color: #b0bec5;
 }
